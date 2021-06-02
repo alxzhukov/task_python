@@ -15,5 +15,5 @@ Solutions for testing function
 Output will be "a"
 """
 symbols = ['b', 'a', 'c', 'a', 'd']  # tested list
-print(c)
+
 print(repeat_symbol(symbols))  # output repeated symbol
